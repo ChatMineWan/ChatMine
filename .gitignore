@@ -13,3 +13,6 @@ __pycache__/
 
 # 日志文件
 *.log
+
+# 宣传网页（非应用本身）
+landing.html
