@@ -2,6 +2,8 @@
 
 桌面端 AI 聊天软件，微信风格界面，支持 微信聊天记录挖掘 与 AI 人格复刻。
 
+下载：[chatmine.cloud](https://chatmine.cloud)
+
 ## 功能模块
 
 | 模块 | 说明 |
