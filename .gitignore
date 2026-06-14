@@ -1,0 +1,15 @@
+# API Keys - 不要上传真实密钥
+.env
+
+# PyInstaller 打包产物（含敏感运行时数据）
+dist/
+
+# 构建中间文件
+build/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 日志文件
+*.log
